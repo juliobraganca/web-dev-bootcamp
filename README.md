@@ -20,3 +20,5 @@ ___
 <br><sub>Why do we need and how to add CSS; CSS Selectors<sub/>
 - [Section 6: CSS Properties](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/6-CSSProperties)
 <br><sub>CSS Colors; Font Properties; Inspecting CSS; CSS Box Model - Margin, Padding and Border<sub/>
+- [Section 7: Intermediate CSS](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/7-Intermediate%20CSS)
+<br><sub>The Cascade - Specificity and Inheritance; Combining CSS Selectors; CSS Positioning<sub/>
