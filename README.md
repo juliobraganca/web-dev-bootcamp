@@ -16,7 +16,7 @@ ___
 <br><sub>List, Anchor and Image Elements; Nesting and Indentation<sub/>
 - [Section 4: Multi-Page Websites](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/4-MultiPageWebsites)
 <br><sub>WebPages; HTML Boilerplate; Computer File Paths<sub/>
-- [Capstone Project 1: Online Resume](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/CapstoneProject1)
+- **[Capstone Project 1: Online Resume](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/CapstoneProject1)**
 <br><sub>An online resume built only using HTML<sub/>
 - [Section 5: Introduction to CSS](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/5-IntroductionToCSS)
 <br><sub>Why do we need and how to add CSS; CSS Selectors<sub/>
