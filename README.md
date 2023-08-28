@@ -22,3 +22,5 @@ ___
 <br><sub>CSS Colors; Font Properties; Inspecting CSS; CSS Box Model - Margin, Padding and Border<sub/>
 - [Section 7: Intermediate CSS](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/7-Intermediate%20CSS)
 <br><sub>The Cascade - Specificity and Inheritance; Combining CSS Selectors; CSS Positioning<sub/>
+- [Section 8: Advanced CSS](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/8-AvancedCSS)
+<br><sub>CSS Diplay; CSS Floar; How to Create Responsive Websites; Media Queries<sub/>
