@@ -26,3 +26,5 @@ ___
 <br><sub>The Cascade - Specificity and Inheritance; Combining CSS Selectors; CSS Positioning<sub/>
 - [Section 8: Advanced CSS](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/8-AvancedCSS)
 <br><sub>CSS Display; CSS Floar; How to Create Responsive Websites; Media Queries<sub/>
+- [Section 9: Flexbox](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/9-Flexbox)
+<br><sub>Display: Flex; Flex Direction; Flex Layout; Flex Sizing<sub/>
