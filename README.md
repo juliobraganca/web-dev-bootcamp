@@ -8,8 +8,11 @@ The course covers a lot of Web Development skills including HTML 5; CSS 3; Flexb
 ___
 
 ## Sections
+# Introduction
 - Section 1: Front-End Web Development 
 <br><sub>Course Introduction<sub/>
+
+# HTML
 - [Section 2: Introduction to HTML](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/2-IntroductionToHTLM)
 <br><sub>What is HTML?; HTML Elements; Self Closing Tags<sub/>
 - [Section 3: Intermediate HTML](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/3-IntermediateHTML)
@@ -18,6 +21,8 @@ ___
 <br><sub>WebPages; HTML Boilerplate; Computer File Paths<sub/>
 - **[Capstone Project 1: Online Resume](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/CapstoneProject1)**
 <br><sub>An online resume built only using HTML<sub/>
+
+# CSS
 - [Section 5: Introduction to CSS](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/5-IntroductionToCSS)
 <br><sub>Why do we need and how to add CSS; CSS Selectors<sub/>
 - [Section 6: CSS Properties](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/6-CSSProperties)
@@ -26,3 +31,5 @@ ___
 <br><sub>The Cascade - Specificity and Inheritance; Combining CSS Selectors; CSS Positioning<sub/>
 - [Section 8: Advanced CSS](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/8-AvancedCSS)
 <br><sub>CSS Display; CSS Floar; How to Create Responsive Websites; Media Queries<sub/>
+- [Section 9: Flexbox](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/9-Flexbox)
+<br><sub>Display: Flex; Flex Direction; Flex Layout; Flex Sizing<sub/>
