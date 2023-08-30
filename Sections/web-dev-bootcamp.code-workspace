@@ -22,7 +22,14 @@
 			"path": "8-AvancedCSS"
 		},
 		{
+			"path": "9-Flexbox"
+		},
+		{
 			"path": "CapstoneProject1"
 		}
-	]
+	],
+	"settings": {
+		"explorer.fileNesting.enabled": false,
+		"explorer.fileNesting.expand": true
+	}
 }
