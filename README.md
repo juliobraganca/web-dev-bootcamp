@@ -10,7 +10,7 @@ ___
 ## Sections
 # Introduction
 - Section 1: Front-End Web Development 
-<br><sub>Course Introduction<sub/>
+<br><sub>Course Introduction - [Link to Course Syllabus](https://github.com/juliobraganca/web-dev-bootcamp/blob/main/Sections/1-FrontEndWebDevelopment/Web%20Dev%20Syllabus.pdf)<sub/>
 
 # HTML
 - [Section 2: Introduction to HTML](https://github.com/juliobraganca/web-dev-bootcamp/tree/main/Sections/2-IntroductionToHTLM)
