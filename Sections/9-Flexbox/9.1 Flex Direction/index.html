@@ -13,8 +13,15 @@
     .container {
       color: white;
       border: 5px solid gold;
-      display: flex;
+      display: inline-flex;
+      flex-direction: column;
     }
+
+
+    .container > div{ 
+      flex-basis: 100px;
+    }
+    /* alternatively we could use .container > * to select everything inside the container */
 
     /*
 Select all the elements that are the direct
