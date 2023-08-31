@@ -10,6 +10,9 @@
 			"path": "4-MultiPageWebsites"
 		},
 		{
+			"path": "4P-CapstoneProject1"
+		},
+		{
 			"path": "5-IntroductionToCSS"
 		},
 		{
@@ -23,9 +26,6 @@
 		},
 		{
 			"path": "9-Flexbox"
-		},
-		{
-			"path": "CapstoneProject1"
 		}
 	],
 	"settings": {
